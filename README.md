@@ -2,6 +2,10 @@
 I am grateful that Bharat Intern, Web Development gave me the chance to intern there.
 The Bharat Intern internship program gave participants a useful perspective on how Web Development projects in the real world are carried out. We, the participants, were able to learn a variety of Web Development skills through this training that would be extremely beneficial in our careers.
 
+# Portfolio Website :
+Task - 1
+Create a portfolio website using HTML and CSS to showcase your skills and accomplishments.
+
 # Weather Website :
 Task - 2
 Build a website using Html, Css, Js that fetches weather data from an API and displays the current weather conditions.
